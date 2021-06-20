@@ -1,2 +1,4 @@
 # CSE220_BRACUSpring2021
- CSE220 All files with lab and assignment solutions
+ This is a repository containing all the files from CSE220 Spring2021
+
+Please do not copy the codes directly
