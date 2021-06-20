@@ -54,14 +54,14 @@ def superDigit(n,k):
     pass
 
 print(superDigit("9875", 4))
-# print(factorial(4))
-# print(fibonacci(9))
-# a=[1,2,3,4,5]
-# printArray(a,0)
-# print(decimalToBinary(5))
-# print(exponential(2,8))
-# if (len(n)==0):
-#         return k
-#     else:
-#         k=int(n[-1])+k
-#         return superDigit(n[:-1],k)
+print(factorial(4))
+print(fibonacci(9))
+a=[1,2,3,4,5]
+printArray(a,0)
+print(decimalToBinary(5))
+print(exponential(2,8))
+if (len(n)==0):
+        return k
+    else:
+        k=int(n[-1])+k
+        return superDigit(n[:-1],k)
