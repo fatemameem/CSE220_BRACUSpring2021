@@ -4,6 +4,9 @@ Created on Wed Mar 17 13:49:14 2021
 
 @author: Meem
 """
+
+# comment out lines one by one to individually check them
+
 from Node import Node as nd
 import random as rd
 class MyList:
